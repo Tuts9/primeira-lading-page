@@ -84,7 +84,7 @@ header {
     color: #fff;
     font-weight: 500;
     margin-left: 40px;
-    transition: 1s ease
+    transition: .5s;
 }
 
 .navigation2 .start:hover {
